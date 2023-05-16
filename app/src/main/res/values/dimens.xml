@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="image_width">250dp</dimen>
+    <dimen name="image_height">500dp</dimen>
+    <dimen name="layout_marginLeft">50dp</dimen>
+    <dimen name="layout_marginRight">0dp</dimen>
+    <dimen name="layout_marginRight_last">80dp</dimen>
+    <dimen name="image_padding">50dp</dimen>
+</resources>

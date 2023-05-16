@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/first_gradient"
+    tools:context=".Register">
+
+    <ImageButton
+        android:id="@+id/back_btn"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@drawable/atras"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="205dp"
+            android:layout_height="241dp"
+            android:layout_marginLeft="-15dp"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/pathcreate"
+            android:alpha="0.5"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="700dp"
+            android:src="@drawable/background_home2"
+            android:layout_marginTop="50dp"
+            android:alpha="0.3"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="90dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/create_account"
+                android:fontFamily="sans-serif"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textSize="40sp"
+                android:textColor="@color/black"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="19sp"
+                android:text="NOMBRE"
+                android:fontFamily="sans-serif"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:layout_marginTop="50dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                />
+
+            <EditText
+                android:id="@+id/nombreTXT"
+                android:layout_width="325dp"
+                android:layout_height="50dp"
+                android:inputType="text"
+                android:shadowRadius="40"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:paddingRight="20dp"
+                android:paddingLeft="20dp"
+                android:background="@drawable/input_btn"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="19sp"
+                android:text="EMAIL"
+                android:fontFamily="sans-serif"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                />
+
+            <EditText
+                android:id="@+id/emailTXT"
+                android:layout_width="325dp"
+                android:layout_height="50dp"
+                android:inputType="textEmailSubject"
+                android:shadowRadius="40"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:paddingRight="20dp"
+                android:paddingLeft="20dp"
+                android:background="@drawable/input_btn"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="19sp"
+                android:text="CONTRASEÑA"
+                android:fontFamily="sans-serif"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                />
+
+            <EditText
+                android:id="@+id/passwordTXT"
+                android:layout_width="325dp"
+                android:layout_height="50dp"
+                android:inputType="textPassword"
+                android:shadowRadius="40"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:paddingRight="20dp"
+                android:paddingLeft="20dp"
+                android:background="@drawable/input_btn"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="19sp"
+                android:text="FECHA DE NACIMIENTO"
+                android:fontFamily="sans-serif"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                />
+
+            <EditText
+                android:id="@+id/fechaTXT"
+                android:layout_width="325dp"
+                android:layout_height="50dp"
+                android:inputType="date"
+                android:shadowRadius="40"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="40dp"
+                android:paddingRight="20dp"
+                android:paddingLeft="20dp"
+                android:background="@drawable/input_btn"
+                />
+
+            <Button
+                android:id="@+id/registerBtn"
+                android:layout_width="290dp"
+                android:layout_height="50dp"
+                android:text="@string/btn_register"
+                android:backgroundTint="@color/cyanDark"
+                android:textColor="@color/white"
+                android:textSize="22sp"
+                android:fontFamily="sans-serif"
+                android:textAlignment="center"
+                android:layout_marginTop="20dp"
+
+                android:layout_gravity="center_horizontal"
+                />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>

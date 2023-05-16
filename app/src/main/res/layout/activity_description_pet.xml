@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/first_gradient"
+    tools:context=".DescriptionRide">
+
+
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="500dp"
+        android:src="@drawable/labrador"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="20dp"
+        />
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:layout_marginTop="-150dp"
+        android:background="@drawable/rounder_description_ride"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Firulais"
+        android:fontFamily="sans-serif-black"
+        android:textSize="30sp"
+        android:layout_gravity="left"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="-480dp"
+        />
+
+    <ImageButton
+        android:id="@+id/config_pet"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/baseline_more_horiz_24"
+        android:layout_marginTop="-50dp"
+        android:layout_marginLeft="350dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="25sp"
+        android:text="Gran labrador, gran corazón"
+        android:fontFamily="sans-serif-light"
+        android:textSize="20sp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        />
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/baseline_location_on_24"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30sp"
+        android:text="Guaymas, Sonora"
+        android:fontFamily="sans-serif-light"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        android:layout_marginTop="-35dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="20dp"
+        />
+
+    <TextView
+        android:layout_width="110dp"
+        android:layout_height="20sp"
+        android:text="Descripción:"
+        android:fontFamily="sans-serif-light"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="105sp"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+        android:fontFamily="sans-serif-light"
+        android:textSize="18sp"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        />
+
+
+    <Button
+        android:id="@+id/sendmsj"
+        android:layout_width="290dp"
+        android:layout_height="40dp"
+        android:text="Mandar Mensaje"
+        android:background="@drawable/round_btn2"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        android:textAlignment="center"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        />
+
+</LinearLayout>

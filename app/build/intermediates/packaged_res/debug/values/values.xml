@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#50A3D3</color>
+    <color name="blueGray">#7AC9D5</color>
+    <color name="blueHigh">#67BBD4</color>
+    <color name="cyan">#41CEB5</color>
+    <color name="cyanDark">#003B3F</color>
+    <color name="cyanGray">#B9EAE1</color>
+    <color name="cyanHigh">#82F1DD</color>
+    <color name="gray">#D9D9D9</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFD645</color>
+    <dimen name="image_height">500dp</dimen>
+    <dimen name="image_padding">50dp</dimen>
+    <dimen name="image_width">250dp</dimen>
+    <dimen name="layout_marginLeft">50dp</dimen>
+    <dimen name="layout_marginRight">0dp</dimen>
+    <dimen name="layout_marginRight_last">80dp</dimen>
+    <string name="Description_home">Lugares, cuidadores y mascotas</string>
+    <string name="app_name">Packspaws_Hiram</string>
+    <string name="btn_Aceptar">Aceptar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_create">Crear una cuenta</string>
+    <string name="btn_register">Registrarse</string>
+    <string name="btn_rentar">Rentar</string>
+    <string name="btn_start">Iniciar</string>
+    <string name="chats_page">Chats</string>
+    <string name="create_account">Crea tu cuenta nueva</string>
+    <string name="default_web_client_id" translatable="false">77485539824-oue2inqp31tgj6pp29jb6p571875agj4.apps.googleusercontent.com</string>
+    <string name="ejemplo_pets1">Honey</string>
+    <string name="ejemplo_pets2">¡El mejor labrador!</string>
+    <string name="ejemplo_pets_perfil2">Lindo Perrito</string>
+    <string name="ejemplo_user1">Carolina Juárez</string>
+    <string name="ejemplo_user2">21 años - ¡3 cats puedes mandarme un dm!</string>
+    <string name="ejmeplo_pets_perfil1">¡Amo tus fotos!</string>
+    <string name="forgot_passsword">Olvidé mi contraseña</string>
+    <string name="gcm_defaultSenderId" translatable="false">77485539824</string>
+    <string name="google_api_key" translatable="false">AIzaSyCW-Tlz5CYdecCRNir_xFTvmvE1oWuaXDg</string>
+    <string name="google_app_id" translatable="false">1:77485539824:android:7d23279687785738199d35</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCW-Tlz5CYdecCRNir_xFTvmvE1oWuaXDg</string>
+    <string name="google_storage_bucket" translatable="false">packnpaws-5fe5b.appspot.com</string>
+    <string name="home_page">Inicio</string>
+    <string name="payment_subtittle">Ingresa un método de pago para continuar con el proceso</string>
+    <string name="payment_success_subtittle">¡Disfrute de su gran viaje!</string>
+    <string name="payment_success_tittle">Pago Completado</string>
+    <string name="payment_tittle">Método de pago</string>
+    <string name="perfil_page">Perfil</string>
+    <string name="pets_page">Pets</string>
+    <string name="project_id" translatable="false">packnpaws-5fe5b</string>
+    <string name="welcome_text">Tu app ideal para viajes con tus mejores compañeros</string>
+    <style name="Base.Theme.Packspaws_Hiram" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="Theme.Packspaws_Hiram" parent="Base.Theme.Packspaws_Hiram"/>
+</resources>

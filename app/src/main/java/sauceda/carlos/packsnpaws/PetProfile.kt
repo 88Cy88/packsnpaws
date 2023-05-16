@@ -81,7 +81,7 @@ class PetProfile : AppCompatActivity() {
                             if (document != null && document.exists()) {
                                 val mascotasList = document.get("Mascotas") as ArrayList<HashMap<String, String>>?
                                 mascotasList?.add(nuevaMascota)
-
+                                reload()
                                 // Actualizar el campo "Mascotas" en la base de datos
                                 cargarList()
                                 usuarioActualRef.update("Mascotas", mascotasList)

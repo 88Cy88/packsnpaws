@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/first_gradient"
+    tools:context=".DescriptionRide">
+
+
+    <ImageView
+        android:layout_width="800dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/mercadomunicipal"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="20dp"
+        />
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:layout_marginTop="-150dp"
+        android:background="@drawable/rounder_description_ride"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mercado Plaza"
+        android:fontFamily="sans-serif-black"
+        android:textSize="30sp"
+        android:layout_gravity="left"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="-480dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="19sp"
+        android:text="Paseo por el mercado municipal"
+        android:fontFamily="sans-serif-light"
+        android:textSize="15sp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        />
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/baseline_location_on_24"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="30dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:text="123, Guaymas. 85400 CP, Sonora, México"
+        android:fontFamily="sans-serif-light"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        android:layout_marginTop="-40dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="20dp"
+        />
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="20sp"
+        android:text="Abierto:"
+        android:fontFamily="sans-serif-light"
+        android:textSize="18sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="20dp"
+        />
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="25sp"
+        android:text="10:00 - 14:00"
+        android:fontFamily="sans-serif-light"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="-21dp"
+        android:layout_marginLeft="95dp"
+        android:layout_marginRight="20dp"
+        />
+
+    <TextView
+        android:layout_width="90dp"
+        android:layout_height="20sp"
+        android:text="Duración:"
+        android:fontFamily="sans-serif-light"
+        android:textSize="18sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="20dp"
+        />
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="25sp"
+        android:text="4 horas"
+        android:fontFamily="sans-serif-light"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="-21dp"
+        android:layout_marginLeft="108dp"
+        android:layout_marginRight="20dp"
+        />
+
+    <TextView
+        android:layout_width="90dp"
+        android:layout_height="20sp"
+        android:text="Costo:"
+        android:fontFamily="sans-serif-light"
+        android:textSize="18sp"
+        android:layout_marginTop="-25dp"
+        android:layout_marginLeft="220dp"
+        android:layout_marginRight="20dp"
+        />
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="25sp"
+        android:text="$15 p/h"
+        android:fontFamily="sans-serif-light"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="-22dp"
+        android:layout_marginLeft="278dp"
+        android:layout_marginRight="20dp"
+        />
+
+    <Button
+        android:id="@+id/rentar"
+        android:layout_width="290dp"
+        android:layout_height="40dp"
+        android:text="@string/btn_rentar"
+        android:background="@drawable/round_btn2"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        android:textAlignment="center"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center_horizontal"
+        />
+
+    <Button
+        android:id="@+id/cancel_button"
+        android:layout_width="290dp"
+        android:layout_height="40dp"
+        android:text="@string/btn_cancelar"
+        android:background="@drawable/round_btn1"
+        android:textColor="@color/black"
+        android:textSize="23sp"
+        android:textAlignment="center"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        />
+
+</LinearLayout>

@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-mergeDebugResources-33:\\layout\\activity_0comienzo.xml",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_0comienzo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-mergeDebugResources-33:\\layout\\activity_1register.xml",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_1register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-mergeDebugResources-33:\\layout\\activity_catalogo_cuidadores.xml",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_catalogo_cuidadores.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-mergeDebugResources-33:\\layout\\activity_catalago_mascotas.xml",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_catalago_mascotas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-mergeDebugResources-33:\\layout\\editar_usuario.xml",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\editar_usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-mergeDebugResources-33:\\layout\\activity_3home.xml",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_3home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-mergeDebugResources-33:\\layout\\agregar_mascota.xml",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\agregar_mascota.xml"
+    },
+    {
+        "merged": "sauceda.carlos.packsnpaws.app-mergeDebugResources-33:/layout/activity_catalago_mascotas.xml",
+        "source": "sauceda.carlos.packsnpaws.app-main-36:/layout/activity_catalago_mascotas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-mergeDebugResources-33:\\layout\\activity_description_pet.xml",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_description_pet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-mergeDebugResources-33:\\layout\\activity_4pet_profile.xml",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_4pet_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-mergeDebugResources-33:\\layout\\activity_cuidador_description.xml",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_cuidador_description.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-mergeDebugResources-33:\\layout\\activity_5usuario_profile.xml",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_5usuario_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-mergeDebugResources-33:\\layout\\activity_description_ride.xml",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_description_ride.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-mergeDebugResources-33:\\layout\\activity_6chats_profile.xml",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_6chats_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-mergeDebugResources-33:\\layout\\activity_2login.xml",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_2login.xml"
+    }
+]

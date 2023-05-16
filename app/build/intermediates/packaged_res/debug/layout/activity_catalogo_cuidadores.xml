@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/second_gradient"
+    tools:context=".CatalagoMascotas">
+
+    <ImageButton
+        android:id="@+id/backbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/backbutton"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="20dp"
+        />
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Cuidadores"
+        android:fontFamily="sans-serif-black"
+        android:gravity="center"
+        android:layout_marginTop="-60dp"
+        android:layout_marginLeft="85dp"
+        android:layout_marginRight="130dp"
+        android:textSize="45sp"
+        />
+
+    <ImageView
+        android:id="@+id/config_cuidador"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/baseline_more_horiz_24"
+        android:layout_marginTop="-50dp"
+        android:layout_marginLeft="350dp"
+        />
+
+    <GridView
+        android:layout_width="340dp"
+        android:layout_height="450dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        >
+    </GridView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sofia Lara"
+        android:textStyle="bold"
+        android:textColor="@color/cyanDark"
+        android:textSize="50sp"
+        android:layout_marginLeft="15dp"
+        />
+
+    <TextView
+        android:layout_width="260sp"
+        android:layout_height="25sp"
+        android:text="Cuidadora a Tiempo Libre"
+        android:fontFamily="sans-serif-light"
+        android:textSize="20sp"
+        android:layout_marginLeft="15dp"
+        />
+
+    <RatingBar
+        android:layout_width="200dp"
+        android:layout_height="30dp"
+        android:numStars="5"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        />
+
+    <ImageView
+        android:layout_width="205dp"
+        android:layout_height="241dp"
+        android:layout_marginLeft="210dp"
+        android:layout_marginTop="-150dp"
+        android:src="@drawable/pathhome2" />
+
+</LinearLayout>

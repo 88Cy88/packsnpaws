@@ -1,0 +1,7 @@
+sauceda.carlos.packsnpaws.test.app-annotation-experimental-1.3.0-0 C:\Users\Carlos\.gradle\caches\transforms-3\021c2eae96af40f709029a71ff483858\transformed\annotation-experimental-1.3.0\res
+sauceda.carlos.packsnpaws.test.app-core-1.5.0-1 C:\Users\Carlos\.gradle\caches\transforms-3\d9b95f82917ba44fed7e3d0563eaea1a\transformed\core-1.5.0\res
+sauceda.carlos.packsnpaws.test.app-androidTest-2 C:\Users\Carlos\AndroidStudioProjects\packsnpaws205690\app\build\generated\res\resValues\androidTest\debug
+sauceda.carlos.packsnpaws.test.app-androidTest-3 C:\Users\Carlos\AndroidStudioProjects\packsnpaws205690\app\build\generated\res\rs\androidTest\debug
+sauceda.carlos.packsnpaws.test.app-mergeDebugAndroidTestResources-4 C:\Users\Carlos\AndroidStudioProjects\packsnpaws205690\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+sauceda.carlos.packsnpaws.test.app-mergeDebugAndroidTestResources-5 C:\Users\Carlos\AndroidStudioProjects\packsnpaws205690\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+sauceda.carlos.packsnpaws.test.app-merged_res-6 C:\Users\Carlos\AndroidStudioProjects\packsnpaws205690\app\build\intermediates\merged_res\debugAndroidTest

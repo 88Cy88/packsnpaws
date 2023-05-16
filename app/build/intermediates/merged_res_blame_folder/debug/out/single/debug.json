@@ -1,0 +1,502 @@
+[
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_ver7.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\ver7.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_locacion2.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\locacion2.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_group6.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\group6.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_filtro2.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\filtro2.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_btn_add_2.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\btn_add_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_pathcalendar.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\pathcalendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_mercadomunicipal_copia.jpeg.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\mercadomunicipal_copia.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\layout_activity_catalago_mascotas.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_catalago_mascotas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_image13.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\image13.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_pathhome2.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\pathhome2.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\layout_activity_6chats_profile.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_6chats_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_logo2.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_pathcreate.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\pathcreate.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\layout_activity_4pet_profile.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_4pet_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_locacion1.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\locacion1.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_salir.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\salir.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_rounder_description_ride.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\rounder_description_ride.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_image20.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\image20.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_inicio.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\inicio.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_group7.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\group7.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable-xxxhdpi_user.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-pngs-29:\\drawable-xxxhdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_baseline_location_on_24.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\baseline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable-hdpi_exit.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-pngs-29:\\drawable-hdpi\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable-xxhdpi_user.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-pngs-29:\\drawable-xxhdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_fondodepantalla.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\fondodepantalla.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable-anydpi-v24_exit.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-pngs-29:\\drawable-anydpi-v24\\exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_anadir.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\anadir.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_labrador.jpg.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\labrador.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_image1.jpg.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\image1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_background_home2.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\background_home2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_vector.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\vector.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_atras.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\atras.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_ver9.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\ver9.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\layout_activity_cuidador_description.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_cuidador_description.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\layout_editar_usuario.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\editar_usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_image2.jpg.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\image2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_chat.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable-xhdpi_user.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-pngs-29:\\drawable-xhdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_ver1.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\ver1.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable-ldpi_user.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-pngs-29:\\drawable-ldpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_round_btn2.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\round_btn2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_background_home.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\background_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_input_btn.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\input_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_backbutton.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\backbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\layout_agregar_mascota.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\agregar_mascota.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_ver6.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\ver6.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_image18.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\image18.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\layout_activity_2login.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_2login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_image12.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\image12.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_baseline_star_24.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\baseline_star_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-pngs-29:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_pataperro.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\pataperro.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_image17.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\image17.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_round_btn1.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\round_btn1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_first_gradient.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\first_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_ic_add_black_14dp.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\ic_add_black_14dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_image4.jpg.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\image4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_patita.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\patita.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable-ldpi_exit.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-pngs-29:\\drawable-ldpi\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_llamada.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\llamada.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_ver3.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\ver3.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_labradordueno.jpg.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\labradordueno.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\layout_activity_description_ride.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_description_ride.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_opciones.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\opciones.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\layout_activity_5usuario_profile.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_5usuario_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable-mdpi_exit.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-pngs-29:\\drawable-mdpi\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_perfil.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\perfil.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_search_btn.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\search_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_bone.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\bone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_baseline_more_horiz_24.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\baseline_more_horiz_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable-xhdpi_exit.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-pngs-29:\\drawable-xhdpi\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_rectangle4.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\rectangle4.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_ver10.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\ver10.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\layout_activity_3home.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_3home.xml"
+    },
+    {
+        "merged": "sauceda.carlos.packsnpaws.app-merged_res-34:/layout_activity_catalago_mascotas.xml.flat",
+        "source": "sauceda.carlos.packsnpaws.app-main-36:/layout/activity_catalago_mascotas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_ver4.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\ver4.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\layout_activity_catalogo_cuidadores.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_catalogo_cuidadores.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_pets.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\pets.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_image10.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\image10.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_gloco_comentario.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\gloco_comentario.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_emoji.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\emoji.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_baseline_add_box_24.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\baseline_add_box_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_mercadomunicipal.jpeg.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\mercadomunicipal.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_image9.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\image9.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_buscar.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\buscar.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_home.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_ver5.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\ver5.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\layout_activity_0comienzo.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_0comienzo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable-xxxhdpi_exit.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-pngs-29:\\drawable-xxxhdpi\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable-anydpi-v24_user.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-pngs-29:\\drawable-anydpi-v24\\user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_filtro1.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\filtro1.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_background_home1.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\background_home1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_ver8.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\ver8.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_image11.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\image11.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\layout_activity_description_pet.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_description_pet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable-hdpi_user.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-pngs-29:\\drawable-hdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_group5.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\group5.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_star.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_dogwalk.jpg.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\dogwalk.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable-xxhdpi_exit.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-pngs-29:\\drawable-xxhdpi\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\layout_activity_1register.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\layout\\activity_1register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_second_gradient.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\second_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_image3.jpg.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\image3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable-mdpi_user.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-pngs-29:\\drawable-mdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_chats.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\chats.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_editar.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\editar.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_ver2.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\ver2.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-merged_res-34:\\drawable_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\daemon\\7.5\\sauceda.carlos.packsnpaws.app-main-36:\\drawable\\baseline_edit_24.xml"
+    }
+]
